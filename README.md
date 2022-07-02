@@ -14,13 +14,14 @@
 </div>
 
 <br />
+<br />
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lylechristine/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://cv.lyle.app">
-    <img src="https://img.shields.io/badge/Curriculum Vitae-green?style=for-the-badge&logo=sourcegraph&logoColor=blue" alt="CV"/>
+    <img src="https://img.shields.io/badge/Curriculum Vitae-gray?style=for-the-badge&logo=sourcegraph&logoColor=yellow" alt="CV"/>
   </a>
   <a href="https://cv.lyle.app/projects">
     <img src="https://img.shields.io/badge/Projects-brown?style=for-the-badge&logo=coveralls&logoColor=pink" alt="Projects"/>
