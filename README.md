@@ -1,15 +1,15 @@
 <h1>@lylio</h1>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>&nbsp;&nbsp;
 
 </div>
 
@@ -28,5 +28,3 @@
   </a>
 </div>
 <br />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lylio&theme=dark&background=000000)](https://git.io/streak-stats)
