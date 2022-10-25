@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <a href="https://cv.lyle.app">
-    <img src="https://img.shields.io/badge/Résumé-gray?style=for-the-badge&logo=sourcegraph&logoColor=yellow" alt="CV"/>
+    <img src="https://img.shields.io/badge/cv.lyle.app-gray?style=for-the-badge&logo=sourcegraph&logoColor=yellow" alt="CV"/>
   </a>&nbsp;
   <a href="https://cv.lyle.app/projects">
     <img src="https://img.shields.io/badge/Projects-brown?style=for-the-badge&logo=coveralls&logoColor=pink" alt="Projects"/>
