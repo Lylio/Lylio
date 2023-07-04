@@ -28,4 +28,4 @@
   </a>
 </div>
 <br />
-Come As You Are 🎸
+<b>Come As You Are</b> 🎸
